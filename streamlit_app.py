@@ -25,7 +25,7 @@ st.stop()
 # Convert the Snowpark Dataframe to a Pandas Dataframe so we can use the LOC function
 #pd_df=my_dataframe.to_pandas()
 #st.dataframe(pd_df)
-3st.stop()
+#st.stop()
 
 #multi_select
 ingredients_list = st.multiselect(
